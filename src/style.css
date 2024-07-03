@@ -1,0 +1,127 @@
+.logo{
+    background-color: #FBFEFF;
+    display: flex;
+    border-radius: 1.5em 1.5em 0 0;
+    width: 104%;
+}
+.logo .logo_text{
+    color: #EA6E75;
+    object-position: 75%;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+body{
+    background-color: #9b9599;
+    
+}
+.body1{
+    background-color: #F9F8F8;
+    align-items: center;
+    object-position: 50%;
+    padding-left: 100px;
+    display: flex;
+  
+    width: 51.28%;
+    
+}
+.body2{
+    background-color: #F9F8F8;
+    align-items: center;
+    object-position: 50%;
+    padding-left: 220px;
+    display: flex;
+  
+    width: 51.28%;
+    
+}
+.body_text{
+    background-color: #F9F8F8;
+    align-items: center;
+    padding: 0%;
+}
+.body2 .per2{
+    padding-top: 0px;
+    border-radius: 0.5em 0.5em;
+}
+
+.body1 .food{
+    border-radius: 0.5em 0.5em;
+    padding-top: 50px;
+}
+.body1 .cook{
+    padding-top: 100px;
+}
+.body1 .bird{
+    border-radius: 0.5em 0.5em;
+    padding-top: 30px;
+}
+.body1 .fem{
+    border-radius: 0.5em 0.5em;
+    padding-top: 70px;
+}
+.body2 .per1{
+    border-radius: 0.5em 0.5em;
+    padding-top: 0px;
+}
+.main_box{
+    background-color: #F9F8F8;
+    width: 60%;
+}
+.main_box .text_box{
+    padding-left: 100px;
+}
+.par_text{
+    width: 280px;
+}
+.sellCont{
+    background-color: #F9F8F8;
+    width: 85%;
+    padding-left: 100px;
+    height: 200px;
+}
+.mainCont{
+    background-color: #F9F8F8;
+    width: 51.28%;
+    border-radius: 1.5em;
+}
+.maltshirt{
+    border-radius: 0.5em;
+}
+.femtshirt
+    {
+        border-radius: 0.5em;
+    }
+.cycle{
+    border-radius: 0.5em;
+}
+.rating{
+    background-color: #dd6767;
+    width: 500%;
+}
+.rat{
+    display:flex;
+    padding-left: 10px;
+    background-color: #e7dada;
+    width: 150%;
+    border-radius: 0.5em 0.5em 0.5em 0;
+    padding-top: 0px;
+    
+}
+.butt{
+    padding-left: 100px;
+    display: flex;
+    
+}
+
+.onlineButt{
+    padding-left: 40px; 
+}
+.ratBox{
+    display: flex;
+    padding-left: 100px;
+    background-color: #e7dada;
+    width: 86%;
+    border-radius: 0 0  1.5em 0;
+  
+}
